@@ -1,0 +1,385 @@
+header {
+    margin: auto;
+}
+
+.body1 {
+    position: absolute;
+    width: 1445px;
+    height: 1150px;
+    background: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.body2{
+    position: absolute;
+    width: 1445px;
+    height: 1050px;
+    background: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.body3 {
+    position: absolute;
+    width: 1445px;
+    height: 1270px;
+    background: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.body4 {
+    position: absolute;
+    width: 1445px;
+    height: 2850px;
+    background: #FFFFFF;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.Home {
+    
+    width: 49px;
+    height: 23px;
+    margin-right: 150px;
+    margin-left: 250px;
+
+
+    background: none;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;    
+}
+
+.home-text {
+    font-size: 28px;
+    line-height: 22px;
+    color: #070707;
+    text-decoration: none;
+}
+
+.button2 {
+    
+    width: 100px;
+    height: 23px;
+    margin-right: 150px;
+    margin-left: 85px;
+    background: none;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+}
+
+.about_my {
+    font-size: 18px;
+    line-height: 22px;
+    color: #828282;
+    text-decoration: none;
+}
+
+.button3 {
+    
+    width: 42px;
+    height: 23px;
+    margin-right: 150px;
+    margin-left: 70px;
+    background: none;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+}
+
+.skills {
+    font-size: 18px;
+    line-height: 22px;
+    color: #828282;
+    text-decoration: none;
+}
+
+.button4 {
+    
+    width: 72px;
+    height: 14px;
+    margin-right: 150px;
+    margin-left: 70px;
+    text-align: center;
+    background: none;
+    border: none;
+    padding: 0;
+    font: inherit;
+    cursor: pointer;
+    outline: inherit;
+}
+
+.portfolio {
+    font-size: 18px;
+    line-height: 22px;
+    color: #828282;
+    text-decoration: none;
+}
+
+
+.contacts {
+    font-size: 18px;
+    line-height: 22px;
+    color: #828282;
+
+}
+
+.ruska {
+    width: 960.6px;
+    height: 0px;
+    margin-left: 250px;
+    margin-top: 32px;
+    border: 1px solid #828282;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+}
+
+.shapka {
+    width: 1445px;
+    background: #FFFFFF;
+}
+
+.name {
+    width: 123.51px;
+    height: 118.17px;
+    font-size: 47.3392px;
+    line-height: 59px;
+    /* Black */
+    color: #070707;
+    border: none;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    margin-left: 250px;
+    margin-top: 40px;
+}
+
+.inf {
+    width: 185.65px;
+    height: 44.06px;
+    font-size: 18px;
+    line-height: 22px;
+    /* Black */
+    color: #070707;
+    margin-left: 640px;
+    margin-top: -91px;
+}
+
+.language {
+    width: 78px;
+    height: 27.05px;
+    transform: rotate(-90deg);
+    margin-left: 1170px;
+    margin-top: -75px;
+}
+
+.photo {
+    width: 965.61px;
+    height: 387px;
+    margin-left: 248px;
+    margin-top: 50px;
+    box-sizing: border-box;
+    border: 0px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.main {
+    margin: auto;
+}
+
+.main2 {
+    margin-left: 99px;
+    background: #F6F6F6;
+    width: 1264px;
+    height: 450px;
+}
+
+.main3 {
+    margin-left: 99px;
+    background: #F6F6F6;
+    width: 1264px;
+    height: 2253px;
+}
+
+.main4 {
+    margin-left: 99px;
+    background: #F6F6F6;
+    width: 1264px;
+    height: 2253px;
+}
+
+.abmy {
+    padding-top: 50px;
+    text-align: center;
+    height: 43px;
+    font-size: 34px;
+    line-height: 42px;
+    color: #070707;
+}
+
+.abmy2 {
+    padding-top: 112px;
+    height: 43px;
+    font-size: 34px;
+    line-height: 42px;
+    color: #070707;
+}
+
+.section-1{
+    text-align: center;
+}
+
+.ul-1 {
+    margin-left: 350px;
+    width: 485px;
+}
+
+.text-li {
+    height: 100px;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+}
+
+.work {
+    height: 24.04px;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #070707; 
+    margin-top: 60px;
+}
+
+.work-skills {
+    margin-left: 250px;
+    margin-top: 82px;
+    width: 166px;
+
+}
+
+.work-skills1 {
+
+    margin-top: 82px;
+    width: 166px;
+
+}
+.adobe-1{
+    width: 70px;
+    height: 27.27px;
+    font-size: 12px;
+    line-height: 17px;
+    text-align: center;
+    color: #828282;
+    margin-left: 46px;
+}
+/*
+.photo-skills {
+    width: 81.67px;
+    height: 80.85px;
+    display: block;
+    margin: 0 auto;
+}
+*/
+.instrumental {
+    width: 26.07px;
+    height: 26px;
+
+    transform: rotate(-90deg);
+
+  }
+  
+    
+.instrumental0 {
+    margin-top: 40px;
+    margin-left: 8px;
+}
+
+.skilladobe_photoshop{
+
+    width: 166.46px;
+    height: 206.29px;
+    left: 255.71px;
+    top: 1566.65px;
+}
+
+
+
+.skilladobe_lll {
+
+    position: relative; left: 258px;
+    position: relative; top: -206.29px;  
+    width: 166.46px;
+    height: 206.29px;
+}
+
+.skilladobe_lll63{
+
+    position: relative; left: 258px;
+    position: relative; top: -211.29px;  
+    width: 166.46px;
+    height: 206.29px;  
+}
+
+.skilladobe_lll74{
+
+    position: relative; left: 516px;
+    position: relative; top: -417.58px;  
+    width: 166.46px;
+    height: 206.29px;  
+}
+
+.section-2 {
+    text-align: center;
+
+}
+
+.portf-01 {
+    left: 41.42%;
+    right: 40.65%;
+    top: 84.45%;
+    bottom: 15.09%;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    text-decoration-line: underline;
+    color: #070707;
+    margin-top: 50px;
+}
+
+.photo-portf2 {
+    margin-top: 99px;
+}
+
+
+.contacts-1 {
+    left: 40.86%;
+    right: 40.1%;
+    top: 90.66%;
+    bottom: 8.42%;
+    font-size: 18px;
+    line-height: 22px;
+    text-align: center;
+    color: #070707; 
+}
+
+.send {
+    background: #070707;   
+    border-radius: 30px;
+    width: 180px;
+
+    text-align: center;
+}
+
+.send-text {
+    font-size: 18px;
+    line-height: 22px;  
+    color: #FFFFFF;
+    text-align: center;
+}
+
+.send-text-div {
+    margin-top: 95px;
+    text-align: center;
+}
+
